@@ -1,0 +1,2 @@
+# .NetKursuEgitimProjesi
+Egitim amacli Olusturulmustur.
